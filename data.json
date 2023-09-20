@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "cover": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8dmV0ZW1lbnRzfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
+      "title": "Produit 1",
+      "price": 5,
+      "description": "Blablabla 1",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi etiam dignissim diam quis. Diam ut venenatis tellus in metus vulputate eu scelerisque. Eget sit amet tellus cras adipiscing enim eu turpis egestas. Consequat mauris nunc congue nisi vitae suscipit. In vitae turpis massa sed elementum tempus. Elit eget gravida cum sociis natoque penatibus et. Purus ut faucibus pulvinar elementum integer enim neque volutpat ac. Dolor sit amet consectetur adipiscing elit ut aliquam. Nam libero justo laoreet sit amet cursus sit amet. Auctor neque vitae tempus quam pellentesque nec. Neque ornare aenean euismod elementum nisi quis eleifend. Lacus sed turpis tincidunt id aliquet risus feugiat in ante. Eu augue ut lectus arcu bibendum at. Sed risus pretium quam vulputate dignissim suspendisse."
+    },
+    {
+      "id": 2,
+      "cover": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHZldGVtZW50c3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
+      "title": "Produit 2",
+      "price": 8,
+      "description": "Blablabla 2",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi etiam dignissim diam quis. Diam ut venenatis tellus in metus vulputate eu scelerisque. Eget sit amet tellus cras adipiscing enim eu turpis egestas. Consequat mauris nunc congue nisi vitae suscipit. In vitae turpis massa sed elementum tempus. Elit eget gravida cum sociis natoque penatibus et. Purus ut faucibus pulvinar elementum integer enim neque volutpat ac. Dolor sit amet consectetur adipiscing elit ut aliquam. Nam libero justo laoreet sit amet cursus sit amet. Auctor neque vitae tempus quam pellentesque nec. Neque ornare aenean euismod elementum nisi quis eleifend. Lacus sed turpis tincidunt id aliquet risus feugiat in ante. Eu augue ut lectus arcu bibendum at. Sed risus pretium quam vulputate dignissim suspendisse."
+    },
+    {
+      "id": 3,
+      "cover": "https://images.unsplash.com/photo-1617331721458-bd3bd3f9c7f8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fHZldGVtZW50c3xlbnwwfHwwfHx8Mg%3D%3D&auto=format&fit=crop&w=600&q=60",
+      "title": "Produit 3",
+      "price": 12,
+      "description": "Blablabla 3",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi etiam dignissim diam quis. Diam ut venenatis tellus in metus vulputate eu scelerisque. Eget sit amet tellus cras adipiscing enim eu turpis egestas. Consequat mauris nunc congue nisi vitae suscipit. In vitae turpis massa sed elementum tempus. Elit eget gravida cum sociis natoque penatibus et. Purus ut faucibus pulvinar elementum integer enim neque volutpat ac. Dolor sit amet consectetur adipiscing elit ut aliquam. Nam libero justo laoreet sit amet cursus sit amet. Auctor neque vitae tempus quam pellentesque nec. Neque ornare aenean euismod elementum nisi quis eleifend. Lacus sed turpis tincidunt id aliquet risus feugiat in ante. Eu augue ut lectus arcu bibendum at. Sed risus pretium quam vulputate dignissim suspendisse."
+    },
+    {
+      "id": 4,
+      "cover": "https://images.unsplash.com/photo-1582142839970-2b9e04b60f65?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDd8fHZldGVtZW50c3xlbnwwfHwwfHx8Mg%3D%3D&auto=format&fit=crop&w=600&q=60",
+      "title": "Produit 4",
+      "price": 21,
+      "description": "Blablabla 4",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi etiam dignissim diam quis. Diam ut venenatis tellus in metus vulputate eu scelerisque. Eget sit amet tellus cras adipiscing enim eu turpis egestas. Consequat mauris nunc congue nisi vitae suscipit. In vitae turpis massa sed elementum tempus. Elit eget gravida cum sociis natoque penatibus et. Purus ut faucibus pulvinar elementum integer enim neque volutpat ac. Dolor sit amet consectetur adipiscing elit ut aliquam. Nam libero justo laoreet sit amet cursus sit amet. Auctor neque vitae tempus quam pellentesque nec. Neque ornare aenean euismod elementum nisi quis eleifend. Lacus sed turpis tincidunt id aliquet risus feugiat in ante. Eu augue ut lectus arcu bibendum at. Sed risus pretium quam vulputate dignissim suspendisse."
+    },
+    {
+      "id": 5,
+      "cover": "https://images.unsplash.com/photo-1560060141-7b9018741ced?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fHZldGVtZW50c3xlbnwwfHwwfHx8Mg%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "title": "Produit 5",
+      "price": 14,
+      "description": "Blablabla 5",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi etiam dignissim diam quis. Diam ut venenatis tellus in metus vulputate eu scelerisque. Eget sit amet tellus cras adipiscing enim eu turpis egestas. Consequat mauris nunc congue nisi vitae suscipit. In vitae turpis massa sed elementum tempus. Elit eget gravida cum sociis natoque penatibus et. Purus ut faucibus pulvinar elementum integer enim neque volutpat ac. Dolor sit amet consectetur adipiscing elit ut aliquam. Nam libero justo laoreet sit amet cursus sit amet. Auctor neque vitae tempus quam pellentesque nec. Neque ornare aenean euismod elementum nisi quis eleifend. Lacus sed turpis tincidunt id aliquet risus feugiat in ante. Eu augue ut lectus arcu bibendum at. Sed risus pretium quam vulputate dignissim suspendisse."
+    },
+    {
+      "id": 6,
+      "cover": "https://images.unsplash.com/photo-1611312449408-fcece27cdbb7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjB8fHZldGVtZW50c3xlbnwwfHwwfHx8Mg%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "title": "Produit 6",
+      "price": 18,
+      "description": "Blablabla 6",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi etiam dignissim diam quis. Diam ut venenatis tellus in metus vulputate eu scelerisque. Eget sit amet tellus cras adipiscing enim eu turpis egestas. Consequat mauris nunc congue nisi vitae suscipit. In vitae turpis massa sed elementum tempus. Elit eget gravida cum sociis natoque penatibus et. Purus ut faucibus pulvinar elementum integer enim neque volutpat ac. Dolor sit amet consectetur adipiscing elit ut aliquam. Nam libero justo laoreet sit amet cursus sit amet. Auctor neque vitae tempus quam pellentesque nec. Neque ornare aenean euismod elementum nisi quis eleifend. Lacus sed turpis tincidunt id aliquet risus feugiat in ante. Eu augue ut lectus arcu bibendum at. Sed risus pretium quam vulputate dignissim suspendisse."
+    }
+  ]
+}
